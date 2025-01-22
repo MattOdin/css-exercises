@@ -1,0 +1,10 @@
+
+/*the following css will change the "<div>" section in the "index.html" file*/
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
