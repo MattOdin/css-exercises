@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(238, 52, 108);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.change-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(105, 224, 105);
+    font-weight: bold;
+}
